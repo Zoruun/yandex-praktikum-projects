@@ -1,6 +1,7 @@
 # Создание dashboard
 <code>[Dashboard](https://public.tableau.com/app/profile/zorun/viz/Book1_16313669729360/Dashboard1?publish=yes)
 </code>
+
 Данный дашборд содержит 4 графика:
 ## Первый график:
 ![изображение](https://user-images.githubusercontent.com/99120413/153747355-aac398cf-6b02-4191-8196-3da0edb7f883.png)
